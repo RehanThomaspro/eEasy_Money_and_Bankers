@@ -2,6 +2,8 @@
 
 Hi I am Rehan Thomas ,happy to share my first internship result on web development in association with The Spark Foundation
 
+#GRIPMAY21  The Sparks Foundation
+
 Question::
 
 # Basic Banking System
@@ -26,4 +28,6 @@ Question::
 
 Work::
 
-link:https://eeasy-money.herokuapp.com/
+Website:https://eeasy-money.herokuapp.com/
+
+Linkedin: https://www.linkedin.com/posts/rehan-thomas-88b302174_task1-gripmay21-github-activity-6800064752677715968-li3R
