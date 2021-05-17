@@ -10,7 +10,7 @@ const AppError = require("./views/AppError");
 
 const PORT = process.env.PORT || 3000;
 
-mongoose.connect("mongodb+srv://rehan_thomas:DFoZCz1CQhpSaZnZ@cluster0.ls4dw.mongodb.net/eEasy_Money_and_Bankers?retryWrites=true&w=majority" || "mongodb://127.0.0.1:27017/banking", { useUnifiedTopology: true, useNewUrlParser: true, useFindAndModify: false })
+mongoose.connect("mongodb+srv://rehan_thomas:DFoZCz1CQhpSaZnZ@cluster0.ls4dw.mongodb.net/eEasy_Money_and_Bankers?retryWrites=true&w=majority" || "mongodb://localhost:27017/banking", { useUnifiedTopology: true, useNewUrlParser: true, useFindAndModify: false })
     .then(() => {
         console.log("connected");
     })
